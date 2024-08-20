@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+
+# Virtual environment directories
+env/
+.venv/
+
+# Environment variables file
+.env
+
+# Pytest cache and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Ruff cache
+.ruff_cache
+
+# Test database
+test.db
